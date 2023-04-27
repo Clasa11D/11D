@@ -1,0 +1,13 @@
+C:\Users\cni\OneDrive\Desktop\27.04.2023\27.04.2023\bin\Debug\27.04.2023.exe.config
+C:\Users\cni\OneDrive\Desktop\27.04.2023\27.04.2023\bin\Debug\27.04.2023.exe
+C:\Users\cni\OneDrive\Desktop\27.04.2023\27.04.2023\bin\Debug\27.04.2023.pdb
+C:\Users\cni\OneDrive\Desktop\27.04.2023\27.04.2023\obj\Debug\27.04.2023.csproj.AssemblyReference.cache
+C:\Users\cni\OneDrive\Desktop\27.04.2023\27.04.2023\obj\Debug\27.04.2023.csproj.SuggestedBindingRedirects.cache
+C:\Users\cni\OneDrive\Desktop\27.04.2023\27.04.2023\obj\Debug\_27._04._2023.Form1.resources
+C:\Users\cni\OneDrive\Desktop\27.04.2023\27.04.2023\obj\Debug\_27._04._2023.Properties.Resources.resources
+C:\Users\cni\OneDrive\Desktop\27.04.2023\27.04.2023\obj\Debug\27.04.2023.csproj.GenerateResource.cache
+C:\Users\cni\OneDrive\Desktop\27.04.2023\27.04.2023\obj\Debug\27.04.2023.csproj.CoreCompileInputs.cache
+C:\Users\cni\OneDrive\Desktop\27.04.2023\27.04.2023\obj\Debug\27.04.2023.exe
+C:\Users\cni\OneDrive\Desktop\27.04.2023\27.04.2023\obj\Debug\27.04.2023.pdb
+C:\Users\cni\OneDrive\Desktop\27.04.2023\27.04.2023\obj\Debug\_27._04._2023.Plus.resources
+C:\Users\cni\OneDrive\Desktop\27.04.2023\27.04.2023\obj\Debug\_27._04._2023.Circle.resources
